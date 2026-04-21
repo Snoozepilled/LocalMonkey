@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Snoozepilled/LocalMonkey/issues"
   },
-  "homepage": "https://github.com/Snoozepilled/LocalMonkey#readme"
+  "homepage": "https://github.com/Snoozepilled/LocalMonkey#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
 }
